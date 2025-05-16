@@ -1,25 +1,7 @@
-<!--[if lte IE 9]>
-<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-<![endif]-->
-
-
-
 <!--********************************
        Code Start From Here
 ******************************** -->
 
-
-
-<!--==============================
-Preloader
-==============================-->
-<div class="preloader">
-    <button class="vs-btn preloaderCls">Cancel Preloader </button>
-    <div class="preloader-inner">
-        <img src="assets/img/logo.svg" alt="logo">
-        <span class="loader"></span>
-    </div>
-</div>
 <!--==============================
 Mobile Menu
 ============================== -->

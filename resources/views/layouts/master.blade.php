@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Cleaning and pool service template | Vecuro | Home 1</title>
+    <title>Bright Light Flower Cleaning </title>
     <meta name="author" content="Vecuro">
     <meta name="description" content="Cleaning and pool Home 1 template">
     <meta name="keywords" content="Cleaning and pool Home 1 template">
